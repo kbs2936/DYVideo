@@ -32,6 +32,10 @@
 			</array>
 			<key>metadata</key>
 			<dict>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>subtitle</key>
+				<string>App</string>
 				<key>bundle-identifier</key>
 				<string>com.nd.douyin</string>
 				<key>bundle-version</key>
